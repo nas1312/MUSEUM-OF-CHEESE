@@ -29,7 +29,7 @@ img:hover{
 
 #mainNavbar {
     font-size: 1.5rem;
-    font-weight: 100;
+    font-weight: 100px;
 }
 
 #mainNavbar .nav-link {
@@ -46,7 +46,7 @@ img:hover{
 }
 
 #headingGroup span {
-    color: #EA1C2C;
+    color: #e4e729;
 }
 
 #headingGroup h1 {
@@ -55,7 +55,7 @@ img:hover{
 }
 
 .navbar.scrolled {
-    background: rgb(227, 238, 168);
+    background: rgb(245, 225, 248);
     transition: background 1.5s;
 }
 
@@ -65,6 +65,7 @@ img:hover{
         font-size: 3rem;
     }
 }
+
 .head {
     color :#639407;
 }
